@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electron.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electron"
+              "title": "Git"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "24c2bea17012b6db",
@@ -199,8 +200,8 @@
   },
   "active": "32cd10719246b020",
   "lastOpenFiles": [
-    "Git.md",
     "Electron.md",
+    "Git.md",
     "Front end Browser.md",
     "Cryptography.md",
     "Welcome.md"

@@ -1,4 +1,5 @@
 
+
 # Under the Hood
 is an Object Database, using SHA52's of the file that you wish to encode. uses Zedlib to compress the data such that it has those crazy symbols that you wouldnt' ordinarilly use.
 >git hash-object <-w>
@@ -94,3 +95,15 @@ therefore when running
 
 #link to what I know about encryption 
 
+
+when you set up .ssh/config
+
+
+know whether your repo uses `ssh` or `https`
+```bash
+git remote -v
+```
+
+
+# note about SSH
+git doesn't occupy your *ssh* tech, Git has their statndard when their *Repo* starts with `git@...` that it means look to your ssh, we are not doing *HTTPS*
