@@ -1,0 +1,3 @@
+
+You have IPC, which acts as the *websocket* between the *node* based `main.js`
+and your *chromium* based `renderer.js` files...
