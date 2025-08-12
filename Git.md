@@ -107,3 +107,15 @@ git remote -v
 
 # note about SSH
 git doesn't occupy your *ssh* tech, Git has their statndard when their *Repo* starts with `git@...` that it means look to your ssh, we are not doing *HTTPS*
+
+
+`Host github.com
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_ed25519`
+  
+This tells SSH:
+> Whenever someone says “ship this to github.com,” use these details:
+> - Go to `github.com` (DNS name)
+> - Use the `git` account there
+> - Bring along this specific key (`id_ed25519`)

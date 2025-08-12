@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptography.md",
-                "mode": "preview",
+                "file": "Electron.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cryptography"
+              "title": "Electron"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Git"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,12 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32cd10719246b020",
+  "active": "1b6096e4297b3144",
   "lastOpenFiles": [
-    "Electron.md",
-    "Git.md",
-    "Front end Browser.md",
     "Cryptography.md",
+    "Git.md",
+    "Electron.md",
+    "Front end Browser.md",
     "Welcome.md"
   ]
 }
