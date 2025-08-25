@@ -27,12 +27,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "efdfdf0cdd9b12d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DynamoDB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DynamoDB"
+            }
+          },
+          {
+            "id": "9c9c0a485a3e5d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algo"
+            }
+          },
+          {
+            "id": "433c0b83055e147f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Algebra"
+            }
+          },
+          {
+            "id": "dc23ee377322b41b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cryptography.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cryptography"
             }
           },
           {
@@ -64,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -121,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "24c2bea17012b6db",
@@ -204,6 +259,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -212,13 +268,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4b15170f0894801",
+  "active": "dc23ee377322b41b",
   "lastOpenFiles": [
-    "Electron.md",
+    "Authentication Mathematics.md",
+    "obs-memories-mac",
+    "Linear Algebra.md",
+    "Algo.md",
+    "DynamoDB.md",
+    "Welcome.md",
     "C++.md",
+    "Electron.md",
     "Cryptography.md",
     "Git.md",
-    "Front end Browser.md",
-    "Welcome.md"
+    "Front end Browser.md"
   ]
 }
