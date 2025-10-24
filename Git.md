@@ -1,4 +1,4 @@
-
+		
 
 # Under the Hood
 is an Object Database, using SHA52's of the file that you wish to encode. uses Zedlib to compress the data such that it has those crazy symbols that you wouldnt' ordinarilly use.
@@ -65,15 +65,6 @@ for i in range(n):
 **Rebase**
 I learned that you can use the `-i` flag to toggle *interactive* mode, which opens an *editor*:
 - You can effectively *choose* which commits and the Messages for each that you want! inclucing *squashing*! 
-oo
-
- = 0, m-1
-```python
- for i in range(n):
-	 for j in range(m):
-		 # we can perform bitwise manipulator
-for subset in range(1, n+1S)
-```
 
 
 # Authentication and linking git account.

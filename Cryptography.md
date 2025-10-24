@@ -2,6 +2,8 @@
 Ed25519 is based on an elliptic curve called **Curve25519**, over a finite field.
 Instead of multiplying numbers, we’re **adding points on a curve**.
 
+
+# RSA Euler's Totien Realization...
 this time was different. I wanted to learn more about the *totient*
 
 Amazing. So much from being intellectually primed from my recent *group theory* mindset. I don't know how else I could've learned about the `a^totien(n) === 1 mod n` where `gcd(a, n) == 1`
@@ -18,8 +20,7 @@ from there, by picking some numeber from that U(n) you can multiply it to all of
 
 From there you can use the *congruence*, and perform the *inverse* to both sides and are left with *Euler's theorem*
 
-`a^totien(n) === 1 mod n`
-
+`a^totient(n) === 1 mod n`
 
 from there. The *algebraic* brain works well with the RSA encryption. Such that you can find the more powerful coprime number *e* which is coprime to *totien(n)* (otherwise you wouldn't get it to cancel out to ONE! the inverse!)
 
@@ -34,6 +35,22 @@ when raised to the exponent in either order it outdoes the other!!!!!
 
 
 
+
+
+
+
+Modular Arithmetic]]
+
+
+
+
+# HS256
+is a *symmetric* encryption algorithm, that RELIES oin the servers to be FEW and required to BE **FAST**.
+
+The tradeoff, vs RS256 is if the key is stolen, that could be catastrophic as they could *pose* as an *issuer* for tokens!
+
+# Block Chaining
+*CBC* = "cipher block chaining"
 
 
 
